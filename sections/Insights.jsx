@@ -1,9 +1,9 @@
 'use client';
 
 const Insights = () => (
-  <section>
-    Insights section
-  </section>
+  <div>
+    insights
+  </div>
 );
 
 export default Insights;

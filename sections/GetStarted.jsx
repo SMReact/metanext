@@ -1,9 +1,9 @@
 'use client';
 
 const GetStarted = () => (
-  <section>
-    Get Started Section
-  </section>
+  <div>
+    get started
+  </div>
 );
 
 export default GetStarted;

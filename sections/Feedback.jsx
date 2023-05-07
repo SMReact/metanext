@@ -1,9 +1,9 @@
 'use client';
 
 const Feedback = () => (
-  <section>
-    Feedback section
-  </section>
+  <div>
+    feedback
+  </div>
 );
 
 export default Feedback;

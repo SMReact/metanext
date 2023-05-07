@@ -1,9 +1,9 @@
 'use client';
 
 const World = () => (
-  <section>
-    World section
-  </section>
+  <div>
+    world
+  </div>
 );
 
 export default World;

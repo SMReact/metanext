@@ -1,9 +1,9 @@
 'use client';
 
 const About = () => (
-  <section>
-    About section
-  </section>
+  <div>
+    about
+  </div>
 );
 
 export default About;

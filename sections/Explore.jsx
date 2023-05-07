@@ -1,9 +1,9 @@
 'use client';
 
 const Explore = () => (
-  <section>
-    Explore section
-  </section>
+  <div>
+    explore
+  </div>
 );
 
 export default Explore;

@@ -1,9 +1,9 @@
 'use client';
 
 const Hero = () => (
-  <section>
-    Hero section
-  </section>
+  <div>
+    hero
+  </div>
 );
 
 export default Hero;
